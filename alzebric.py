@@ -1,3 +1,4 @@
+#this is simple change
 a=int(input('enter first variable:'))
 b=int(input('enter second variable:'))
 c=int(input('enter third variable'))
